@@ -40,7 +40,7 @@ To demo: In the root directory, first navigate to /ui and `npm install`, then na
 ### mongoDB
 Navigate to Mongo Atlas and spin up a cluster. Obtain your connection string and be sure to update your env file.
 
-### npm dev
+### npm run dev
 When your installs are complete run `npm run dev` in both the roots of `/ui` and `/api`. 
 
 Runs the app in the development mode.\
