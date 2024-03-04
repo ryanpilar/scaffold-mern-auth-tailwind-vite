@@ -35,9 +35,9 @@ React | MongoDB | Mongoose | Tailwind CSS | Express | Vite
 
 ## 🖥  How to run / Available Scripts
 
-To demo: In the root directory, first navigate to `/ui` and `npm install`, then navigate to `/api` and `npm install`. 
+To demo: In the root directory, first navigate to /ui and `npm install`, then navigate to /api and `npm install`. 
 
-### mongoDB
+### `mongoDB`
 Navigate to Mongo Atlas and spin up a cluster. Obtain your connection string and be sure to update your env file.
 
 ### `npm dev`
