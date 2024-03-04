@@ -35,9 +35,10 @@ React | MongoDB | Mongoose | Tailwind CSS | Express | Vite
 
 ## 🖥  How to run / Available Scripts
 
-To demo: In the root directory, first navigate to `/ui` and `npm install`, then navigate to `/api` and `npm install`. When your installs are complete run `npm run dev` in both the roots of `/ui` and `/api`. 
+To demo: In the root directory, first navigate to `/ui` and `npm install`, then navigate to `/api` and `npm install`. 
 
 ### `npm dev`
+When your installs are complete run `npm run dev` in both the roots of `/ui` and `/api`. 
 
 Runs the app in the development mode.\
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the app interface.
