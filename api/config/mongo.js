@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+import mongoose from 'mongoose';
 const connectDB = async () => {
     
     // Check if the MONGODB_URI is defined
@@ -16,4 +16,4 @@ const connectDB = async () => {
         process.exit(1) // 1 indicates an unspecified error
     }
 }
-module.exports = connectDB
+export default connectDB
